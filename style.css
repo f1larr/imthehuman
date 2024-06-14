@@ -1,0 +1,229 @@
+body {
+    background: linear-gradient(125deg, skyblue, darkslategray);
+}
+
+.left {
+    width: 315px;
+    height: auto;
+    float: left;
+    border-radius: 5%;
+    background: linear-gradient(45deg,rgba(240, 128, 128, 0.542), rgba(153, 11, 11, 0.535));
+}
+
+.header_box {
+    width: 285px;
+    height: 110px;
+    color: white;
+    margin: 0 auto;
+}
+
+.logo {
+    float: left;
+    width: 110px;
+    height: 110px;
+    border-radius: 100%;
+    margin: 5px;
+}
+
+.last-name {
+    font-size: 20px;
+}
+
+.name {
+    font-size: 27px;
+}
+
+.age {
+    font-size: 15px;
+}
+
+
+
+.type1 {
+    width: 285px;
+    height: 134px;
+    border-radius: 5%;
+    margin: 0 auto;
+    margin-top: 15px;
+    color: white;
+}
+.p1 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.p1 {
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.type2 {
+    width: 285px;
+    height: 144px;
+    border-radius: 5%;
+    margin: 0 auto;
+    margin-top: 15px;
+    color: white;
+}
+
+.hobbies {
+    margin: 15px;
+    width: 276px;
+    height: auto;
+    color: white;
+    float: left;
+}
+
+.item {
+    font-size: 14px;
+    width: 59px;
+    height: 15px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15%;
+
+}
+.hobby{
+    width: auto;
+height: auto;
+margin: 10px;
+float: left;
+}
+.i {
+    width: 23px;
+    height: 19px;
+}
+
+.cont {
+    width: 285px;
+height: 38px;
+float: left;
+margin: 12px;  
+}
+
+.i2 {
+    width: 23px;
+    height: 19px;
+    float: left;
+}
+
+.q {
+    color: white;
+}
+
+.right {
+    width: 505px;
+    height: 1650px;
+    float: left;
+    border-radius: 2%;
+    margin-left: 30px;
+}
+
+.head_box {
+    width: 485px;
+    height: 35px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.title2 {
+    width: 150px;
+    height: 24px;
+    background: gray;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 10% ;
+    font-size: 23px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.line {
+    width: 320px;
+    height: 1px;
+    background: black;
+    float: left;
+    margin-top: 17px;
+}
+
+.item1{
+    width: 485px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.item2{
+    width: 485px;
+    height: 750px;
+    margin: 0 auto;
+}
+
+.item3{
+    width: 485px;
+    height: 1150px;
+    margin: 0 auto;
+}
+
+.item4{
+    width: 485px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.p4{
+    font-size: 20px;
+    margin: 30px;
+  
+}
+
+.list {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.p3{
+    font-size: 25px;
+    margin: 30px;
+    font-weight: bold;
+}
+
+
+.d {
+    margin: 10px;
+    width: 200px;
+    height: 400px;
+}
+
+.d2 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+
+
+
+
+td {
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    background: white;
+    border: 3px solid black;
+}
+
+.right {
+    background: white;
+    width: 505px;
+    height: 2550px;
+    float: left;
+    border-radius: 2%;
+    margin-left: 30px;
+}
+
+table {
+    border-collapse: collapse;
+}
